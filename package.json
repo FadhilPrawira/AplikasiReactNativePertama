@@ -7,8 +7,7 @@
     "ios": "react-native run-ios",
     "lint": "eslint .",
     "start": "react-native start",
-    "test": "jest",
-    "emulator": "%LOCALAPPDATA%\\Android\\Sdk\\emulator.exe -avd Pixel_3a_API_30"
+    "test": "jest"
   },
   "dependencies": {
     "react": "18.2.0",
